@@ -1,0 +1,8 @@
+{
+  "name": "GamelingEuMod",
+  "version": "0.1.0",
+  "description": "Discord.js Version des Gameling.eu Mod#9942",
+  "main": "index.js",
+  "author": "Sinsambin",
+  "license": "MIT"
+}
